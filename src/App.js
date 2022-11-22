@@ -151,6 +151,7 @@ function App() {
         }))
         setBudget(budget + playerToRemove.price);
     }
+    setTeamDone(false);
   }
 
   const alertHandler = (text, type) => {
@@ -172,6 +173,7 @@ function App() {
     setDefenders([]);
     setKeepers([]);
     alertHandler("Team Cleared", "success");
+    setTeamDone(false);
   }
 
   return (
