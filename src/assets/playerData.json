@@ -1,0 +1,2718 @@
+[  
+    {
+        "name": "Lionel Messi",
+        "position": "F",
+        "price": 12,
+        "nationality": "Argentina",
+        "image": "playerImages/lm.jpg"
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "position": "F",
+        "price": 12,
+        "nationality": "Portugal",
+        "image": "playerImages/cr.jpg"
+    },
+    {
+        "name": "Neymar",
+        "position": "F",
+        "price": 11,
+        "nationality": "Brazil",
+        "image": "playerImages/neymar.jpg"
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "position": "M",
+        "price": 11,
+        "nationality": "Belgium",
+        "image": "playerImages/kdb.jpg"
+    },
+    {
+        "name": "Kylian Mbappe",
+        "position": "F",
+        "price": 11,
+        "nationality": "France",
+        "image": "playerImages/km.jpg"
+    },
+    {
+        "name": "Robert Lewandowski",
+        "position": "F",
+        "price": 10,
+        "nationality": "Poland",
+        "image": "playerImages/rl.jpg"
+    },
+    {
+        "name": "Vinicius Jr",
+        "position": "F",
+        "price": 9,
+        "nationality": "Brazil",
+        "image": "playerImages/vinicius.jpg"
+    },
+    {
+        "name": "Joshua Kimmich",
+        "position": "D",
+        "price": 8,
+        "nationality": "Germany",
+        "image": "playerImages/jk.jpg"
+    },
+    {
+        "name": "Harry Kane",
+        "position": "F",
+        "price": 10,
+        "nationality": "England",
+        "image": "playerImages/hk.jpg"
+    },
+    {
+        "name": "Ruben Dias",
+        "position": "D",
+        "price": 8,
+        "nationality": "Portugal",
+        "image": "playerImages/rd.jpg"
+    },
+    {
+        "name": "Luka Modric",
+        "position": "M",
+        "price": 8,
+        "nationality": "Croatia",
+        "image": "playerImages/modric.jpg"
+    },
+    {
+        "name": "Son Heung-Min",
+        "position": "F",
+        "price": 8,
+        "nationality": "South Korea",
+        "image": "playerImages/hms.jpg"
+    },
+    {
+        "name": "Sadio Mane",
+        "position": "F",
+        "price": 8,
+        "nationality": "Senegal",
+        "image": "playerImages/sadio.jpg"
+    },
+    {
+        "name": "Virgil van Dijk",
+        "position": "D",
+        "price": 9,
+        "nationality": "Netherlands",
+        "image": "playerImages/vvd.jpg"
+    },
+    {
+        "name": "Thibaut Courtois",
+        "position": "G",
+        "price": 10,
+        "nationality": "Belgium",
+        "image": "playerImages/courtois.jpg"
+    },
+    {
+        "name": "Federico Valverde",
+        "position": "M",
+        "price": 7,
+        "nationality": "Uruguay",
+        "image": "playerImages/valverde.jpg"
+    },
+    {
+        "name": "Pedri",
+        "position": "M",
+        "price": 7,
+        "nationality": "Spain",
+        "image": "playerImages/pedri.jpg"
+    },
+    {
+        "name": "Jude Bellingham",
+        "position": "M",
+        "price": 7,
+        "nationality": "England",
+        "image": "playerImages/jude.jpg"
+    },
+    {
+        "name": "Alisson",
+        "position": "G",
+        "price": 9,
+        "nationality": "Brazil",
+        "image": "playerImages/alisson.jpg"
+    },
+    {
+        "name": "Antonio Rudiger",
+        "position": "D",
+        "price": 8,
+        "nationality": "Germany",
+        "image": "playerImages/rudiger.jpg"
+    },
+    {
+        "name": "Lautaro Martinez",
+        "position": "F",
+        "price": 6,
+        "nationality": "Argentina",
+        "image": "playerImages/lautaro.jpg"
+    },
+    {
+        "name": "Joao Cancelo",
+        "position": "D",
+        "price": 9,
+        "nationality": "Portugal",
+        "image": "playerImages/cancelo.jpg"
+    },
+    {
+        "name": "Phil Foden",
+        "position": "F",
+        "price": 7,
+        "nationality": "England",
+        "image": "playerImages/foden.jpg"
+    },
+    {
+        "name": "Achraf Hakimi",
+        "position": "D",
+        "price": 8,
+        "nationality": "Morocco",
+        "image": "playerImages/hakimi.jpg"
+    },
+    {
+        "name": "Leroy Sane",
+        "position": "F",
+        "price": 6,
+        "nationality": "Germany",
+        "image": "playerImages/leroysane.jpg"
+    },
+    {
+        "name": "Marquinhos",
+        "position": "D",
+        "price": 8,
+        "nationality": "Brazil",
+        "image": "playerImages/marquinhos.jpg"
+    },
+    {
+        "name": "Kalidou Koulibaly",
+        "position": "D",
+        "price": 7,
+        "nationality": "Senegal",
+        "image": "playerImages/kk.jpg"
+    },
+    {
+        "name": "Jamal Musiala",
+        "position": "M",
+        "price": 6,
+        "nationality": "Germany",
+        "image": "playerImages/musiala.jpg"
+    },
+    {
+        "name": "Bruno Fernandes",
+        "position": "M",
+        "price": 8,
+        "nationality": "Portugal",
+        "image": "playerImages/bruno.jpg"
+    },
+    {
+        "name": "Rafael Leao",
+        "position": "F",
+        "price": 6,
+        "nationality": "Portugal",
+        "image": "playerImages/leao.jpg"
+    },
+    {
+        "name": "Casemiro",
+        "position": "M",
+        "price": 7,
+        "nationality": "Brazil",
+        "image": "playerImages/casemiro.jpg"
+    },
+    {
+        "name": "Thomas Muller",
+        "position": "M",
+        "price": 7,
+        "nationality": "Germany",
+        "image": "playerImages/muller.jpg"
+    },
+    {
+        "name": "Romelu Lukaku",
+        "position": "F",
+        "price": 7,
+        "nationality": "Belgium",
+        "image": "playerImages/lukaku.jpg"
+    },
+    {
+        "name": "Alphonso Davies",
+        "position": "D",
+        "price": 8,
+        "nationality": "Canada",
+        "image": "playerImages/alphonsodavies.jpg"
+    },
+    {
+        "name": "Rodrigo De Paul",
+        "position": "M",
+        "price": 6,
+        "nationality": "Argentina",
+        "image": "playerImages/depaul.jpg"
+    },
+    {
+        "name": "Frenki De Jong",
+        "position": "M",
+        "price": 7,
+        "nationality": "Netherlands",
+        "image": "playerImages/frenkie.jpg"
+    },
+    {
+        "name": "Angel Di Maria",
+        "position": "M",
+        "price": 7,
+        "nationality": "Argentina",
+        "image": "playerImages/dimaria.jpg"
+    },
+    {
+        "name": "Bernardo Silva",
+        "position": "M",
+        "price": 7,
+        "nationality": "Portugal",
+        "image": "playerImages/bernardo.jpg"
+    },
+    {
+        "name": "Gavi",
+        "position": "M",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/gavi.jpg"
+    },
+    {
+        "name": "Lisandro Martinez",
+        "position": "D",
+        "price": 7,
+        "nationality": "Argentina",
+        "image": "playerImages/lisandro.jpg"
+    },
+    {
+        "name": "Dusan Vlahovic",
+        "position": "F",
+        "price": 7,
+        "nationality": "Serbia",
+        "image": "playerImages/vlahovic.jpg"
+    },
+    {
+        "name": "Rodri",
+        "position": "M",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/rodri.jpg"
+    },
+    {
+        "name": "Christopher Nkunku",
+        "position": "F",
+        "price": 7,
+        "nationality": "France",
+        "image": "playerImages/nkunku.jpg"
+    },
+    {
+        "name": "Kinsley Coman",
+        "position": "F",
+        "price": 6,
+        "nationality": "France",
+        "image": "playerImages/coman.jpg"
+    },
+    {
+        "name": "Christian Pulisic",
+        "position": "F",
+        "price": 6,
+        "nationality": "USA",
+        "image": "playerImages/pulisic.jpg"
+    },
+    {
+        "name": "Memphis Depay",
+        "position": "F",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/memphis.jpg"
+    },
+    {
+        "name": "Weston Mckennie",
+        "position": "M",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/mckennie.jpg"
+    },
+    {
+        "name": "Gareth Bale",
+        "position": "F",
+        "price": 7,
+        "nationality": "Wales",
+        "image": "playerImages/bale.jpg"
+    },
+    {
+        "name": "Edouard Mendy",
+        "position": "G",
+        "price": 7,
+        "nationality": "Senegal",
+        "image": "playerImages/mendy.jpg"
+    },
+    {
+        "name": "Darwin Nunez",
+        "position": "F",
+        "price": 7,
+        "nationality": "Uruguay",
+        "image": "playerImages/darwin.jpg"
+    },
+    {
+        "name": "Aurelien Tchouameni",
+        "position": "M",
+        "price": 7,
+        "nationality": "France",
+        "image": "playerImages/tchouameni.jpg"
+    },
+    {
+        "name": "Christian Eriksen",
+        "position": "M",
+        "price": 8,
+        "nationality": "Denmark",
+        "image": "playerImages/eriksen.jpg"
+    },
+    {
+        "name": "Hirving Lozano",
+        "position": "F",
+        "price": 6,
+        "nationality": "Mexico",
+        "image": "playerImages/lozano.jpg"
+    },
+    {
+        "name": "Raul Jimenez",
+        "position": "M",
+        "price": 5,
+        "nationality": "Mexico",
+        "image": "playerImages/rauljimenez.jpg"
+    },
+    {
+        "name": "Luis Suarez",
+        "position": "F",
+        "price": 6,
+        "nationality": "Uruguay",
+        "image": "playerImages/suarez.jpg"
+    },
+    {
+        "name": "Eden Hazard",
+        "position": "M",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/edenhazard.jpg"
+    },
+    {
+        "name": "Thorgan Hazard",
+        "position": "M",
+        "price": 4,
+        "nationality": "Belgium",
+        "image": "playerImages/thorganhazard.jpg"
+    },
+    {
+        "name": "Leandro Trossard",
+        "position": "M",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/trossard.jpg"
+    },
+    {
+        "name": "Keylor Navas",
+        "position": "G",
+        "price": 8,
+        "nationality": "Costa Rica",
+        "image": "playerImages/navas.jpg"
+    },
+    {
+        "name": "Takoumi Minamino",
+        "position": "M",
+        "price": 4,
+        "nationality": "Japan",
+        "image": "playerImages/minamino.jpg"
+    },
+    {
+        "name": "Thomas Partey",
+        "position": "M",
+        "price": 5,
+        "nationality": "Ghana",
+        "image": "playerImages/partey.jpg"
+    },
+    {
+        "name": "Edson Alvarez",
+        "position": "M",
+        "price": 6,
+        "nationality": "Mexico",
+        "image": "playerImages/edsonalvarez.jpg"
+    },
+    {
+        "name": "Giovanni Reyna",
+        "position": "M",
+        "price": 5,
+        "nationality": "USA",
+        "image": "playerImages/reyna.jpg"
+    },
+    {
+        "name": "Alexandar Mitrovic",
+        "position": "F",
+        "price": 8,
+        "nationality": "Serbia",
+        "image": "playerImages/mitrovic.jpg"
+    },
+    {
+        "name": "Edinson Cavani",
+        "position": "F",
+        "price": 6,
+        "nationality": "Uruguay",
+        "image": "playerImages/cavani.jpg"
+    },
+    {
+        "name": "Emiliano Martinez",
+        "position": "G",
+        "price": 5,
+        "nationality": "Argentina",
+        "image": "playerImages/emimartinez.jpg"
+    },
+    {
+        "name": "Franco Armani",
+        "position": "G",
+        "price": 4,
+        "nationality": "Argentina",
+        "image": "playerImages/armani.jpg"
+    },
+    {
+        "name": "Geronimo Rulli",
+        "position": "G",
+        "price": 4,
+        "nationality": "Argentina",
+        "image": "playerImages/rulli.jpg"
+    },
+    {
+        "name": "Nahuel Molina",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Argentina",
+        "image": "playerImages/molina.jpg"
+    },
+    {
+        "name": "Cristian Romero",
+        "position": "D",
+        "price": 6,
+        "nationality": "Argentina",
+        "image": "playerImages/romero.jpg"
+    },
+    {
+        "name": "Nicolas Otamendi",
+        "position": "D",
+        "price": 5,
+        "nationality": "Argentina",
+        "image": "playerImages/otamendi.jpg"
+    },
+    {
+        "name": "Marcos Acuna",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Argentina",
+        "image": "playerImages/acuna.jpg"
+    },
+    {
+        "name": "Nicolas Tagliafico",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Argentina",
+        "image": "playerImages/tagliafico.jpg"
+    },
+    {
+        "name": "German Pezzella",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Argentina",
+        "image": "playerImages/pezzella.jpg"
+    },
+    {
+        "name": "Gonzalo Montiel",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Argentina",
+        "image": "playerImages/Montiel.jpg"
+    },
+    {
+        "name": "Alexis Mac Allister ",
+        "position": "M",
+        "price": 5,
+        "nationality": "Argentina",
+        "image": "playerImages/macallister.jpg"
+    },
+    {
+        "name": "Leandro Paredes",
+        "position": "M",
+        "price": 5,
+        "nationality": "Argentina",
+        "image": "playerImages/paredes.jpg"
+    },
+    {
+        "name": "Papu Gomez",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Argentina",
+        "image": "playerImages/papugomez.jpg"
+    },
+    {
+        "name": "Enzo Fernandez",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Argentina",
+        "image": "playerImages/enzofernandez.jpg"
+    },
+    {
+        "name": "Guido Rodriguez",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Argentina",
+        "image": "playerImages/guidorodriguez.jpg"
+    },
+    {
+        "name": "Joaquin Correa",
+        "position": "F",
+        "price": 6,
+        "nationality": "Argentina",
+        "image": "playerImages/correa.jpg"
+    },
+    {
+        "name": "Paulo Dybala",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Argentina",
+        "image": "playerImages/dybala.jpg"
+    },
+    {
+        "name": "Unai Simon",
+        "position": "G",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/unaisimon.jpg"
+    },
+    {
+        "name": "Robert Sanchez",
+        "position": "G",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/robertsanchez.jpg"
+    },
+    {
+        "name": "David Raya",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "Spain",
+        "image": "playerImages/raya.jpg"
+    },
+    {
+        "name": "Dani Carvajal",
+        "position": "D",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/caravajal.jpg"
+    },
+    {
+        "name": "Cesar Azpilicueta",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Spain",
+        "image": "playerImages/azpi.jpg"
+    },
+    {
+        "name": "Eric Garcia",
+        "position": "D",
+        "price": 4,
+        "nationality": "Spain",
+        "image": "playerImages/ericgarcia.jpg"
+    },
+    {
+        "name": "Pau Torres",
+        "position": "D",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/torres.jpg"
+    },
+    {
+        "name": "Hugo Guillamon",
+        "position": "D",
+        "price": 4,
+        "nationality": "Spain",
+        "image": "playerImages/guillamon.jpg"
+    },
+    {
+        "name": "Aymeric Laporte",
+        "position": "D",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/laporte.jpg"
+    },
+    {
+        "name": "Jordi Alba",
+        "position": "D",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/alba.jpg"
+    },
+    {
+        "name": "Jose Gaya",
+        "position": "D",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/Gaya.jpg"
+    },
+    {
+        "name": "Koke",
+        "position": "M",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/koke.jpg"
+    },
+    {
+        "name": "Sergio Busquets",
+        "position": "D",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/Busquets.jpg"
+    },
+    {
+        "name": "Carlos Soler",
+        "position": "M",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/soler.jpg"
+    },
+    {
+        "name": "Marcos Llorente",
+        "position": "D",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/llorente.jpg"
+    },
+    {
+        "name": "Yeremy Pino",
+        "position": "F",
+        "price": 5,
+        "nationality": "Spain",
+        "image": "playerImages/pino.jpg"
+    },
+    {
+        "name": "Ferran Torres",
+        "position": "F",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/ferran.jpg"
+    },
+    {
+        "name": "Alvaro Morata",
+        "position": "F",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/morata.jpg"
+    },
+    {
+        "name": "Nico Williams",
+        "position": "F",
+        "price": 7,
+        "nationality": "Spain",
+        "image": "playerImages/nwilliams.jpg"
+    },
+    {
+        "name": "Marco Asensio",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Spain",
+        "image": "playerImages/asensio.jpg"
+    },
+    {
+        "name": "Pablo Sarabia",
+        "position": "F",
+        "price": 6,
+        "nationality": "Spain",
+        "image": "playerImages/sarabia.jpg"
+    },
+    {
+        "name": "Dani Olmo",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Spain",
+        "image": "playerImages/daniolmo.jpg"
+    },
+    {
+        "name": "Ansu Fati",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Spain",
+        "image": "playerImages/fati.jpg"
+    },
+    {
+        "name": "Justin Bijlow",
+        "position": "G",
+        "price": 4,
+        "nationality": "Netherlands",
+        "image": "playerImages/bijlow.jpg"
+    },
+    {
+        "name": "Andries Noppert",
+        "position": "G",
+        "price": 4,
+        "nationality": "Netherlands",
+        "image": "playerImages/noppert.jpg"
+    },
+    {
+        "name": "Remko Pasveer",
+        "position": "G",
+        "price": 4,
+        "nationality": "Netherlands",
+        "image": "playerImages/pasveer.jpg"
+    },
+    {
+        "name": "Nathan Ake",
+        "position": "D",
+        "price": 5,
+        "nationality": "Netherlands",
+        "image": "playerImages/ake.jpg"
+    },
+    {
+        "name": "Daley Blind",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/blind.jpg"
+    },
+    {
+        "name": "Jurrien Timber",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/timber.jpg"
+    },
+    {
+        "name": "Denzel Dumfries",
+        "position": "D",
+        "price": 6.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/dumfries.jpg"
+    },
+    {
+        "name": "Stefan De Vrij",
+        "position": "D",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/debrij.jpg"
+    },
+    {
+        "name": "Matthijs De Ligt",
+        "position": "D",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/ligt.jpg"
+    },
+    {
+        "name": "Tyrell Malacia",
+        "position": "D",
+        "price": 5,
+        "nationality": "Netherlands",
+        "image": "playerImages/malacia.jpg"
+    },
+    {
+        "name": "Jeremie Frimpong",
+        "position": "D",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/frimpong.jpg"
+    },
+    {
+        "name": "Steven Berghuis",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/berghuis.jpg"
+    },
+    {
+        "name": "Davy Klassen",
+        "position": "M",
+        "price": 5,
+        "nationality": "Netherlands",
+        "image": "playerImages/klassen.jpg"
+    },
+    {
+        "name": "Teun Koopmeniers",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/teun.jpg"
+    },
+    {
+        "name": "Cody Gapko",
+        "position": "M",
+        "price": 8,
+        "nationality": "Netherlands",
+        "image": "playerImages/gapko.jpg"
+    },
+    {
+        "name": "Marten De Roon",
+        "position": "M",
+        "price": 5,
+        "nationality": "Netherlands",
+        "image": "playerImages/deroon.jpg"
+    },
+    {
+        "name": "Xavi Simons",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/xavisimons.jpg"
+    },
+    {
+        "name": "Steven Bergwijn",
+        "position": "F",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/bergwijn.jpg"
+    },
+    {
+        "name": "Vincent Janssen",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/vincentjanssen.jpg"
+    },
+    {
+        "name": "Luuk De Jong",
+        "position": "F",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/luuk.jpg"
+    },
+    {
+        "name": "Wout Weghorst",
+        "position": "F",
+        "price": 6,
+        "nationality": "Netherlands",
+        "image": "playerImages/wout.jpg"
+    },
+    {
+        "name": "Noa Lang",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Netherlands",
+        "image": "playerImages/lang.jpg"
+    },
+    {
+        "name": "Diogo Costa",
+        "position": "G",
+        "price": 4.5,
+        "nationality": "Portugal",
+        "image": "playerImages/diogocosta.jpg"
+    },
+    {
+        "name": "Jose Sa",
+        "position": "G",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/sa.jpg"
+    },
+    {
+        "name": "Rui Patricio",
+        "position": "G",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/rui.jpg"
+    },
+    {
+        "name": "Diogo Dalot",
+        "position": "D",
+        "price": 6.5,
+        "nationality": "Portugal",
+        "image": "playerImages/dalot.jpg"
+    },
+    {
+        "name": "Pepe",
+        "position": "D",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/pepe.jpg"
+    },
+    {
+        "name": "Danilo Pereira",
+        "position": "D",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/danilopereira.jpg"
+    },
+    {
+        "name": "Antonio Silva",
+        "position": "D",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/antsilva.jpg"
+    },
+    {      
+        "name": "Nuno Mendes",
+        "position": "D",
+        "price": 6,
+        "nationality": "Portugal",
+        "image": "playerImages/mendes.jpg"
+    },
+    {
+        "name": "Raphael Guerreiro",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Portugal",
+        "image": "playerImages/guerreiro.jpg"
+    },
+    {
+        "name": "Joao Palhinha",
+        "position": "M",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/palhinha.jpg"
+    },
+    {
+        "name": "Ruben Neves",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Portugal",
+        "image": "playerImages/neves.jpg"
+    },
+    {
+        "name": "Joao Mario",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Portugal",
+        "image": "playerImages/joaomario.jpg"
+    },
+    {   
+        "name": "Matheus Nunes",
+        "position": "M",
+        "price": 6,
+        "nationality": "Portugal",
+        "image": "playerImages/nunes.jpg"
+    },
+    {   
+        "name": "Otavio",
+        "position": "M",
+        "price": 6.5,
+        "nationality": "Portugal",
+        "image": "playerImages/otavio.jpg"
+    },
+    {
+        "name": "Vitinha",
+        "position": "M",
+        "price": 6,
+        "nationality": "Portugal",
+        "image": "playerImages/vitinha.jpg"
+    },
+    {
+        "name": "William Carvalho",
+        "position": "M",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/carvalho.jpg"
+    },
+    {
+        "name": "Andre Silva",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Portugal",
+        "image": "playerImages/andresilva.jpg"
+    },
+    {
+        "name": "Goncalo Ramos",
+        "position": "F",
+        "price": 5,
+        "nationality": "Portugal",
+        "image": "playerImages/goncaloramos.jpg"
+    },
+    {
+        "name": "Joao Felix",
+        "position": "F",
+        "price": 8,
+        "nationality": "Portugal",
+        "image": "playerImages/.jpg"
+    },
+    {
+        "name": "Ricardo Horta",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Portugal",
+        "image": "playerImages/horta.jpg"
+    },
+    {
+        "name": "Jordan Pickford",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "England",
+        "image": "playerImages/pickford.jpg"
+    },
+    {
+        "name": "Nick Pope",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "England",
+        "image": "playerImages/pope.jpg"
+    },
+    {
+        "name": "Aaron Ramsdale",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "England",
+        "image": "playerImages/ramsdale.jpg"
+    },
+    {
+        "name": "John Stones",
+        "position": "D",
+        "price": 5,
+        "nationality": "England",
+        "image": "playerImages/stones.jpg"
+    },
+    {
+        "name": "Trent Alexnander-Arnold",
+        "position": "D",
+        "price": 7,
+        "nationality": "England",
+        "image": "playerImages/taa.jpg"
+    },
+    {
+        "name": "Eric Dier",
+        "position": "D",
+        "price": 6,
+        "nationality": "England",
+        "image": "playerImages/dier.jpg"
+    },
+    {
+        "name": "Conor Coady",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "England",
+        "image": "playerImages/coady.jpg"
+    },
+    {
+        "name": "Ben White",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "England",
+        "image": "playerImages/white.jpg"
+    },
+    {
+        "name": "Luke Shaw",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "England",
+        "image": "playerImages/shaw.jpg"
+    },
+    {
+        "name": "Kyle Walker",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "England",
+        "image": "playerImages/walker.jpg"
+    },
+    {
+        "name": "Harry Maguire",
+        "position": "D",
+        "price": 4,
+        "nationality": "England",
+        "image": "playerImages/maguire.jpg"
+    },
+    {
+        "name": "Walker Zimmerman",
+        "position": "D",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/zimmerman.jpg"
+    },
+    {
+        "name": "Kieran Trippier",
+        "position": "D",
+        "price": 7,
+        "nationality": "England",
+        "image": "playerImages/tripps.jpg"
+    },
+    {
+        "name": "Kalvin Phillips",
+        "position": "M",
+        "price": 5,
+        "nationality": "England",
+        "image": "playerImages/Phillips.jpg"
+    },
+    {
+        "name": "Declan Rice",
+        "position": "M",
+        "price": 5,
+        "nationality": "England",
+        "image": "playerImages/rice.jpg"
+    },
+    {
+        "name": "Conor Gallagher",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "England",
+        "image": "playerImages/gallagher.jpg"
+    },
+    {
+        "name": "Jordan Henderson",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "England",
+        "image": "playerImages/hendo.jpg"
+    },
+    {
+        "name": "Mason Mount",
+        "position": "M",
+        "price": 8,
+        "nationality": "England",
+        "image": "playerImages/mount.jpg"
+    },
+    {
+        "name": "Marcus Rashford",
+        "position": "F",
+        "price": 8,
+        "nationality": "England",
+        "image": "playerImages/rash.jpg"
+    },
+    {
+        "name": "Callum Wilson",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "England",
+        "image": "playerImages/wilson.jpg"
+    },
+    {
+        "name": "Jack Grealish",
+        "position": "F",
+        "price": 5,
+        "nationality": "England",
+        "image": "playerImages/grealish.jpg"
+    },
+    {
+        "name": "Bukayo Saka",
+        "position": "F",
+        "price": 8,
+        "nationality": "England",
+        "image": "playerImages/saka.jpg"
+    },
+    {
+        "name": "James Maddison",
+        "position": "F",
+        "price": 7,
+        "nationality": "England",
+        "image": "playerImages/madds.jpg"
+    },
+    {
+        "name": "Raheem Sterling",
+        "position": "F",
+        "price": 7.5,
+        "nationality": "England",
+        "image": "playerImages/sterling.jpg"
+    },
+    {
+        "name": "Manuel Neuer",
+        "position": "G",
+        "price": 8,
+        "nationality": "Germany",
+        "image": "playerImages/neuer.jpg"
+    },
+    {
+        "name": "Marc-Andre Ter Stegen",
+        "position": "G",
+        "price": 7,
+        "nationality": "Germany",
+        "image": "playerImages/terstegen.jpg"
+    },
+    {
+        "name": "Kevin Trapp",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "Germany",
+        "image": "playerImages/trapp.jpg"
+    },
+    {
+        "name": "Armel Bella-Kotchap",
+        "position": "D",
+        "price": 5,
+        "nationality": "Germany",
+        "image": "playerImages/bellakotch.jpg"
+    },
+    {
+        "name": "Matthias Ginter",
+        "position": "D",
+        "price": 5,
+        "nationality": "Germany",
+        "image": "playerImages/ginter.jpg"
+    },
+    {
+        "name": "Thilo Kehrer",
+        "position": "D",
+        "price": 4,
+        "nationality": "Germany",
+        "image": "playerImages/kehrer.jpg"
+    },
+    {
+        "name": "Lukas Klostermann",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Germany",
+        "image": "playerImages/klost.jpg"
+    },
+    {
+        "name": "David Raum",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Germany",
+        "image": "playerImages/raum.jpg"
+    },
+    {
+        "name": "Nico Schlotterbeck",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Germany",
+        "image": "playerImages/schlotterbeck.jpg"
+    },
+    {
+        "name": "Niklas Sule",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Germany",
+        "image": "playerImages/sule.jpg"
+    },
+    {
+        "name": "Leon Goretzka",
+        "position": "M",
+        "price": 6,
+        "nationality": "Germany",
+        "image": "playerImages/.jpg"
+    },
+    {
+        "name": "Jonas Hofmann",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Germany",
+        "image": "playerImages/hofmann.jpg"
+    },
+    {
+        "name": "Ilkay Gunogan",
+        "position": "M",
+        "price": 6.5,
+        "nationality": "Germany",
+        "image": "playerImages/gundo.jpg"
+    },
+    {
+        "name": "Mario Gotze",
+        "position": "M",
+        "price": 5,
+        "nationality": "Germany",
+        "image": "playerImages/gotze.jpg"
+    },
+    {
+        "name": "Julian Brandt",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Germany",
+        "image": "playerImages/brandt.jpg"
+    },
+    {
+        "name": "Karim Adeyemi",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Germany",
+        "image": "playerImages/adeyemi.jpg"
+    },
+    {
+        "name": "Kai Havertz",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Germany",
+        "image": "playerImages/kai.jpg"
+    },
+    {
+        "name": "Youssoufa Moukoko",
+        "position": "F",
+        "price": 5,
+        "nationality": "Germany",
+        "image": "playerImages/moukoko.jpg"
+    },
+    {
+        "name": "Niclas Fullkrug",
+        "position": "F",
+        "price": 5,
+        "nationality": "Germany",
+        "image": "playerImages/fullkrug.jpg"
+    },
+    {
+        "name": "Guillermo Ochoa",
+        "position": "G",
+        "price": 6.5,
+        "nationality": "Mexico",
+        "image": "playerImages/ochoa.jpg"
+    },
+    {
+        "name": "Nestor Araujo",
+        "position": "D",
+        "price": 4,
+        "nationality": "Mexico",
+        "image": "playerImages/nestoraraujo.jpg"
+    },
+    {
+        "name": "Jesus Gallardo",
+        "position": "D",
+        "price": 4,
+        "nationality": "Mexico",
+        "image": "playerImages/gallardo.jpg"
+    },
+    {
+        "name": "Gerado Arteaga",
+        "position": "D",
+        "price": 4,
+        "nationality": "Mexico",
+        "image": "playerImages/arteaga.jpg"
+    },
+    {
+        "name": "Hector Moreno",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Mexico",
+        "image": "playerImages/hectormoreno.jpg"
+    },
+    {
+        "name": "Jorge Sanchez",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Mexico",
+        "image": "playerImages/Jorge Sanchez.jpg"
+    },
+    {
+        "name": "Johan Vasquez",
+        "position": "D",
+        "price": 4,
+        "nationality": "Mexico",
+        "image": "playerImages/johanvasq.jpg"
+    },
+    {
+        "name": "Cesar Montes",
+        "position": "D",
+        "price": 4,
+        "nationality": "Mexico",
+        "image": "playerImages/montes.jpg"
+    },
+    {
+        "name": "Erick Gutierrez",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Mexico",
+        "image": "playerImages/.jpg"
+    },
+    {
+        "name": "Andres Guardado",
+        "position": "M",
+        "price": 5,
+        "nationality": "Mexico",
+        "image": "playerImages/Guardado.jpg"
+    },
+    {
+        "name": "Luis Romo",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Mexico",
+        "image": "playerImages/romo.jpg"
+    },
+    {
+        "name": "Uriel Antuna",
+        "position": "M",
+        "price": 5,
+        "nationality": "Mexico",
+        "image": "playerImages/antuna.jpg"
+    },
+    {
+        "name": "Alexis Vega",
+        "position": "F",
+        "price": 5,
+        "nationality": "Mexico",
+        "image": "playerImages/vega.jpg"
+    },
+    {
+        "name": "Hugo Lloris",
+        "position": "G",
+        "price": 6,
+        "nationality": "France",
+        "image": "playerImages/lloris.jpg"
+    },
+    {
+        "name": "Alphonse Areola",
+        "position": "G",
+        "price": 4.5,
+        "nationality": "France",
+        "image": "playerImages/areola.jpg"
+    },
+    {
+        "name": "Steve Mandanda",
+        "position": "G",
+        "price": 4,
+        "nationality": "France",
+        "image": "playerImages/mandanda.jpg"
+    },
+    {
+        "name": "Benjamin Pavard",
+        "position": "D",
+        "price": 6.5,
+        "nationality": "France",
+        "image": "playerImages/Pavard.jpg"
+    },
+    {
+        "name": "Jules Kounde",
+        "position": "D",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/kounde.jpg"
+    },
+    {
+        "name": "Presnel Kimpembe",
+        "position": "D",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/kimpb.jpg"
+    },
+    {
+        "name": "William Saliba",
+        "position": "D",
+        "price": 6.5,
+        "nationality": "France",
+        "image": "playerImages/saliba.jpg"
+    },
+    {
+        "name": "Raphael Varane",
+        "position": "D",
+        "price": 7,
+        "nationality": "France",
+        "image": "playerImages/varane.jpg"
+    },
+    {
+        "name": "Theo Hernandez",
+        "position": "D",
+        "price": 6,
+        "nationality": "France",
+        "image": "playerImages/theoH.jpg"
+    },
+    {
+        "name": "Lucas Hernandez",
+        "position": "D",
+        "price": 6,
+        "nationality": "France",
+        "image": "playerImages/lucasH.jpg"
+    },
+    {
+        "name": "Dayot Upamencano",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "France",
+        "image": "playerImages/upamencano.jpg"
+    },
+    {
+        "name": "Ibrahima Konate",
+        "position": "D",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/konate.jpg"
+    },
+    {
+        "name": "Adrien Rabiot",
+        "position": "M",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/rabiot.jpg"
+    },
+    {
+        "name": "Youssouf Fofana",
+        "position": "M",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/fofana.jpg"
+    },
+    {
+        "name": "Matteo Guendouzi",
+        "position": "M",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/guendouzi.jpg"
+    },
+    {
+        "name": "Jordan Veretout",
+        "position": "M",
+        "price": 5,
+        "nationality": "France",
+        "image": "playerImages/veretout.jpg"
+    },
+    {
+        "name": "Eduardo Camavinga",
+        "position": "M",
+        "price": 6,
+        "nationality": "France",
+        "image": "playerImages/Camavinga.jpg"
+    },
+    {
+        "name": "Karim Benzema",
+        "position": "F",
+        "price": 8.5,
+        "nationality": "France",
+        "image": "playerImages/benz.jpg"
+    },
+    {
+        "name": "Olivier Giroud",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "France",
+        "image": "playerImages/giroud.jpg"
+    },
+    {
+        "name": "Antoine Griezmann",
+        "position": "F",
+        "price": 7.5,
+        "nationality": "France",
+        "image": "playerImages/griezmann.jpg"
+    },
+    {
+        "name": "Ousmane Dembele",
+        "position": "F",
+        "price": 7.5,
+        "nationality": "France",
+        "image": "playerImages/Dembele.jpg"
+    },
+    {
+        "name": "Ederson",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "Brazil",
+        "image": "playerImages/ederson.jpg"
+    },
+    {
+        "name": "Weverton",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "Brazil",
+        "image": "playerImages/weverton.jpg"
+    },
+    {
+        "name": "Danilo",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Brazil",
+        "image": "playerImages/danilo.jpg"
+    },
+    {
+        "name": "Dani Alves",
+        "position": "D",
+        "price": 5,
+        "nationality": "Brazil",
+        "image": "playerImages/alves.jpg"
+    },
+    {
+        "name": "Alex Sandro",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Brazil",
+        "image": "playerImages/sandro.jpg"
+    },
+    {
+        "name": "Alex Telles",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Brazil",
+        "image": "playerImages/Telles.jpg"
+    },
+    {
+        "name": "Thiago Silva",
+        "position": "D",
+        "price": 6,
+        "nationality": "Brazil",
+        "image": "playerImages/thiagosilva.jpg"
+    },
+    {
+        "name": "Eder Militao",
+        "position": "D",
+        "price": 6,
+        "nationality": "Brazil",
+        "image": "playerImages/militao.jpg"
+    },
+    {
+        "name": "Bremer",
+        "position": "D",
+        "price": 5,
+        "nationality": "Brazil",
+        "image": "playerImages/bremer.jpg"
+    },
+    {
+        "name": "Fabinho",
+        "position": "M",
+        "price": 5,
+        "nationality": "Brazil",
+        "image": "playerImages/fabinho.jpg"
+    },
+    {
+        "name": "Bruno Guimaraes",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Brazil",
+        "image": "playerImages/brunog.jpg"
+    },
+    {
+        "name": "Fred",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Brazil",
+        "image": "playerImages/fred.jpg"
+    },
+    {
+        "name": "Lucas Paqueta",
+        "position": "M",
+        "price": 6,
+        "nationality": "Brazil",
+        "image": "playerImages/paqueta.jpg"
+    },
+    {
+        "name": "Everton Ribeiro",
+        "position": "M",
+        "price": 5,
+        "nationality": "Brazil",
+        "image": "playerImages/ribeiro.jpg"
+    },
+    {
+        "name": "Antony",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Brazil",
+        "image": "playerImages/antony.jpg"
+    },
+    {
+        "name": "Gabriel Jesus",
+        "position": "F",
+        "price": 7,
+        "nationality": "Brazil",
+        "image": "playerImages/jesus.jpg"
+    },
+    {
+        "name": "Raphinha",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Brazil",
+        "image": "playerImages/raphinha.jpg"
+    },
+    {
+        "name": "Richarlison",
+        "position": "F",
+        "price": 7,
+        "nationality": "Brazil",
+        "image": "playerImages/richarlison.jpg"
+    },
+    {
+        "name": "Gabriel Martinelli",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Brazil",
+        "image": "playerImages/martinelli.jpg"
+    },
+    {
+        "name": "Rodrygo",
+        "position": "F",
+        "price": 6,
+        "nationality": "Brazil",
+        "image": "playerImages/rodrygo.jpg"
+    },
+    {
+        "name": "Pedro",
+        "position": "F",
+        "price": 6,
+        "nationality": "Brazil",
+        "image": "playerImages/pedrobrazil.jpg"
+    },
+    {
+        "name": "Ethan Horvath",
+        "position": "G",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/horvath.jpg"
+    },
+    {
+        "name": "Matt Turner",
+        "position": "G",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/mattturner.jpg"
+    },
+    {
+        "name": "Sergino Dest",
+        "position": "D",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/dest.jpg"
+    },
+    {
+        "name": "Tim Ream",
+        "position": "D",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/tim ream.jpg"
+    },
+    {
+        "name": "Antonee Robinson",
+        "position": "D",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/robinson.jpg"
+    },
+    {
+        "name": "Deandre Yedlin",
+        "position": "D",
+        "price": 4,
+        "nationality": "USA",
+        "image": "playerImages/yedlin.jpg"
+    },
+    {
+        "name": "Brenden Aaronson",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/aaronson.jpg"
+    },
+    {
+        "name": "Kellyn Acosta",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/acosta.jpg"
+    },
+    {
+        "name": "Tyler Adams",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/tyleradams.jpg"
+    },
+    {
+        "name": "Luca De La Torre",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/delatorre.jpg"
+    },
+    {
+        "name": "Jesus Ferreira",
+        "position": "F",
+        "price": 5,
+        "nationality": "USA",
+        "image": "playerImages/ferreira.jpg"
+    },
+    {
+        "name": "Josh Sargent",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/sargent.jpg"
+    },
+    {
+        "name": "Haji Wright",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/wright.jpg"
+    },
+    {
+        "name": "Tim Weah",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "USA",
+        "image": "playerImages/weah.jpg"
+    },
+    {
+        "name": "Simon Mignolet",
+        "position": "G",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/mignolet.jpg"
+    },
+    {
+        "name": "Jan Vertonghen",
+        "position": "D",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/vertonghen.jpg"
+    },
+    {
+        "name": "Toby Alderweireld",
+        "position": "D",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/ Alderweireld.jpg"
+    },
+    {      
+        "name": "Wout Faes",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Belgium",
+        "image": "playerImages/faes.jpg"
+    },
+    {
+        "name": "Zeno Debast",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Belgium",
+        "image": "playerImages/debast.jpg"
+    },
+    {
+        "name": "Arthur Theate",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Belgium",
+        "image": "playerImages/theate.jpg"
+    },
+    {   
+        "name": "Thomas Meunier",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Belgium",
+        "image": "playerImages/meunier.jpg"
+    },
+    {
+        "name": "Timothy Castagne",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Belgium",
+        "image": "playerImages/castagne.jpg"
+    },
+    {
+        "name": "Youri Tielemans",
+        "position": "M",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/tielemans.jpg"
+    },
+    {
+        "name": "Amadou Onana",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Belgium",
+        "image": "playerImages/onana.jpg"
+    },
+    {
+        "name": "Axel Witsel",
+        "position": "M",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/witsel.jpg"
+    },
+    {
+        "name": "Hans Vanaken",
+        "position": "M",
+        "price": 5,
+        "nationality": "Belgium",
+        "image": "playerImages/vanaken.jpg"
+    },
+    {
+        "name": "Leander Dendoncker",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Belgium",
+        "image": "playerImages/deondoncker.jpg"
+    },
+    {
+        "name": "Yannick Carrasco",
+        "position": "M",
+        "price": 6,
+        "nationality": "Belgium",
+        "image": "playerImages/carrasco.jpg"
+    },
+    {
+        "name": "Charles De Ketelaere",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Belgium",
+        "image": "playerImages/ketelaere.jpg"
+    },
+    {
+        "name": "Jeremy Doku",
+        "position": "F",
+        "price": 6.5,
+        "nationality": "Belgium",
+        "image": "playerImages/doku.jpg"
+    },
+    {
+        "name": "Michy Batshuayi",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Belgium",
+        "image": "playerImages/Batshuayi.jpg"
+    },
+    {
+        "name": "Yann Sommer",
+        "position": "G",
+        "price": 7.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/sommer.jpg"
+    },
+    {
+        "name": "Gregor Kobel",
+        "position": "G",
+        "price": 5,
+        "nationality": "Switzerland",
+        "image": "playerImages/kobel.jpg"
+    },
+    {
+        "name": "Manuel Akanji",
+        "position": "D",
+        "price": 6.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/akanji.jpg"
+    },
+    {
+        "name": "Fabian Schar",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/schar.jpg"
+    },
+    {
+        "name": "Nico Elvedi",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/elvedi.jpg"
+    },
+    {
+        "name": "Ricardo Rodriguez",
+        "position": "D",
+        "price": 5,
+        "nationality": "Switzerland",
+        "image": "playerImages/ricardorod.jpg"
+    },
+    {
+        "name": "Noah Okafor",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/okafor.jpg"
+    },
+    {
+        "name": "Xherdan Shaqiri",
+        "position": "M",
+        "price": 5,
+        "nationality": "Switzerland",
+        "image": "playerImages/.jpg"
+    },
+    {
+        "name": "Fabian Frei",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/frei.jpg"
+    },
+    {
+        "name": "Remo Freuler",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/freuler.jpg"
+    },
+    {
+        "name": "Granit Xhaka",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Switzerland",
+        "image": "playerImages/xhaka.jpg"
+    },
+    {
+        "name": "Denis Zakaria",
+        "position": "M",
+        "price": 5,
+        "nationality": "Switzerland",
+        "image": "playerImages/zakaria.jpg"
+    },
+    {
+        "name": "Breel Embolo",
+        "position": "F",
+        "price": 5,
+        "nationality": "Switzerland",
+        "image": "playerImages/embolo.jpg"
+    },
+    {
+        "name": "Haris Sefervoic",
+        "position": "F",
+        "price": 5,
+        "nationality": "Switzerland",
+        "image": "playerImages/sefervoic.jpg"
+    },
+    {
+        "name": "Wojciech Szcesny",
+        "position": "G",
+        "price": 5.5,
+        "nationality": "Poland",
+        "image": "playerImages/Szcesny.jpg"
+    },
+    {
+        "name": "Jan Bednarek",
+        "position": "D",
+        "price": 4,
+        "nationality": "Poland",
+        "image": "playerImages/bednarek.jpg"
+    },
+    {
+        "name": "Matt Cash",
+        "position": "D",
+        "price": 5,
+        "nationality": "Poland",
+        "image": "playerImages/cash.jpg"
+    },
+    {
+        "name": "Artur Jedrzejckzyk",
+        "position": "D",
+        "price": 4,
+        "nationality": "Poland",
+        "image": "playerImages/jedrze.jpg"
+    },
+    {   
+        "name": "Robert Gumny",
+        "position": "D",
+        "price": 4,
+        "nationality": "Poland",
+        "image": "playerImages/gumny.jpg"
+    },
+    {
+        "name": "Piotr Zielinski",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Poland",
+        "image": "playerImages/zielinski.jpg"
+    },
+    {
+        "name": "Arkadiusz Milik",
+        "position": "F",
+        "price": 6,
+        "nationality": "Poland",
+        "image": "playerImages/milik.jpg"
+    },
+    {
+        "name": "Krzysztof Piatek",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Poland",
+        "image": "playerImages/piatek.jpg"
+    },
+    {
+        "name": "Wayne Hennessey",
+        "position": "G",
+        "price": 4,
+        "nationality": "Wales",
+        "image": "playerImages/hennessey.jpg"
+    },
+    {
+        "name": "Danny Ward",
+        "position": "G",
+        "price": 4,
+        "nationality": "Wales",
+        "image": "playerImages/ward.jpg"
+    },
+    {
+        "name": "Ben Davies",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/bendavies.jpg"
+    },
+    {
+        "name": "Neco Williams",
+        "position": "D",
+        "price": 4,
+        "nationality": "Wales",
+        "image": "playerImages/nwilliams.jpg"
+    },
+    {
+        "name": "Chris Mepham",
+        "position": "D",
+        "price": 4,
+        "nationality": "Wales",
+        "image": "playerImages/mepham.jpg"
+    },
+    {
+        "name": "Connor Roberts",
+        "position": "D",
+        "price": 4,
+        "nationality": "Wales",
+        "image": "playerImages/croberts.jpg"
+    },
+    {
+        "name": "Harry Wilson",
+        "position": "M",
+        "price": 5,
+        "nationality": "Wales",
+        "image": "playerImages/wilson.jpg"
+    },
+    {
+        "name": "Aaron Romsey",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/ramsey.jpg"
+    },
+    {
+        "name": "Joe Allen",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/allen.jpg"
+    },
+    {
+        "name": "Sorba Thomas",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/thomas.jpg"
+    },
+    {   
+        "name": "Daniel James",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/james.jpg"
+    },
+    {
+        "name": "Kieffer Moore",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/moore.jpg"
+    },
+    {
+        "name": "Brennan Johnson",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Wales",
+        "image": "playerImages/brennanjohnson.jpg"
+    },
+    {
+        "name": "Kasper Schmeichel",
+        "position": "G",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/schmeichel.jpg"
+    },
+    {
+        "name": "Simon Kjaer",
+        "position": "D",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/kjaer.jpg"
+    },
+    {
+        "name": "Joachim Andersen",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/andersen.jpg"
+    },
+    {
+        "name": "Kasmus Kristensen",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/kristensen.jpg"
+    },
+    {
+        "name": "Daniel Wass",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/wass.jpg"
+    },
+    {
+        "name": "Joakim Maehle",
+        "position": "D",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/maehle.jpg"
+    },
+    {
+        "name": "Andreas Christensen",
+        "position": "D",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/christenesen.jpg"
+    },
+    {
+        "name": "Victor Nelsson",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/nelsson.jpg"
+    },
+    {
+        "name": "Alexander Bah",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/bah.jpg"
+    },
+    {
+        "name": "Mathias Jensen",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/jensen.jpg"
+    },
+    {
+        "name": "Pierre-Emile Hoibjerg",
+        "position": "M",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/hoibjerg.jpg"
+    },
+    {
+        "name": "Christian Norgaard",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/norgaard.jpg"
+    },
+    {
+        "name": "Yussuf Poulsen",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/poulsen.jpg"
+    },
+    {
+        "name": "Andreas Skov Olsen",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/skovolsen.jpg"
+    },
+    {
+        "name": "Jesper Lindstrom",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/lindstrom.jpg"
+    },
+    {
+        "name": "Martin Braithwaite",
+        "position": "F",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/braithwaite.jpg"
+    },
+    {
+        "name": "Kasper Dolberg",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Denmark",
+        "image": "playerImages/.jpg"
+    },
+    {
+        "name": "Robert Skov",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Denmark",
+        "image": "playerImages/skov.jpg"
+    },
+    {
+        "name": "Mikkel Damsgaard",
+        "position": "F",
+        "price": 5,
+        "nationality": "Denmark",
+        "image": "playerImages/damsgaard.jpg"
+    },
+    {
+        "name": "Johnathan David",
+        "position": "F",
+        "price": 6,
+        "nationality": "Canada",
+        "image": "playerImages/Johnathandavid.jpg"
+    },
+    {
+        "name": "Fernando Muslera",
+        "position": "G",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/muslera.jpg"
+    },
+    {
+        "name": "Diego Godin",
+        "position": "D",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/godin.jpg"
+    },
+    {   
+        "name": "Jose Gimenez",
+        "position": "D",
+        "price": 5.5,
+        "nationality": "Uruguay",
+        "image": "playerImages/gimenez.jpg"
+    },
+    {
+        "name": "Ronald Araujo",
+        "position": "D",
+        "price": 6.5,
+        "nationality": "Uruguay",
+        "image": "playerImages/araujo.jpg"
+    },
+    {
+        "name": "Jose Luis Rodriguez",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Uruguay",
+        "image": "playerImages/luisrodrig.jpg"
+    },
+    {
+        "name": "Sebastian Coates",
+        "position": "D",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/coates.jpg"
+    },
+    {
+        "name": "Mathias Olivera",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Uruguay",
+        "image": "playerImages/olivera.jpg"
+    },
+    {
+        "name": "Rodrigo Bentancur",
+        "position": "M",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/bentancur.jpg"
+    },
+    {
+        "name": "Nicolas de la Cruz",
+        "position": "M",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/delacruz.jpg"
+    },
+    {
+        "name": "Giorgian de Arrascaeta",
+        "position": "M",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/Arrascaeta.jpg"
+    },
+    {
+        "name": "Lucas Torreira",
+        "position": "M",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/torreira.jpg"
+    },
+    {
+        "name": "Maxi Gomez",
+        "position": "F",
+        "price": 5,
+        "nationality": "Uruguay",
+        "image": "playerImages/maxigomez.jpg"
+    },
+    {
+        "name": "Marko Dmitrovic",
+        "position": "G",
+        "price": 4,
+        "nationality": "Serbia",
+        "image": "playerImages/dmitrovic.jpg"
+    },
+    {
+        "name": "Nikola Milenkovic",
+        "position": "D",
+        "price": 4,
+        "nationality": "Serbia",
+        "image": "playerImages/milenkovic.jpg"
+    },
+    {
+        "name": "Srdan Babic",
+        "position": "D",
+        "price": 4,
+        "nationality": "Serbia",
+        "image": "playerImages/babic.jpg"
+    },
+    {
+        "name": "Stefan Mitrovic",
+        "position": "D",
+        "price": 4,
+        "nationality": "Serbia",
+        "image": "playerImages/Stefanmitrovic.jpg"
+    },
+    {
+        "name": "Milos Veljkovic",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Serbia",
+        "image": "playerImages/veljkovic.jpg"
+    },
+    {
+        "name": "Dusan Tadic",
+        "position": "M",
+        "price": 6,
+        "nationality": "Serbia",
+        "image": "playerImages/tadic.jpg"
+    },
+    {
+        "name": "Sergei Milinkovic-Savic",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Serbia",
+        "image": "playerImages/SMS.jpg"
+    },
+    {
+        "name": "Filip Kostic",
+        "position": "M",
+        "price": 6,
+        "nationality": "Serbia",
+        "image": "playerImages/kostic.jpg"
+    },
+    {   
+        "name": "Filip Duricic",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Serbia",
+        "image": "playerImages/duricic.jpg"
+    },
+    {
+        "name": "Uros Racic",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Serbia",
+        "image": "playerImages/racic.jpg"
+    },
+    {
+        "name": "Luka Jovic",
+        "position": "F",
+        "price": 5,
+        "nationality": "Serbia",
+        "image": "playerImages/jovic.jpg"
+    },
+    {
+        "name": "Dominik Livakovic",
+        "position": "G",
+        "price": 4.5,
+        "nationality": "Croatia",
+        "image": "playerImages/livakovic.jpg"
+    },
+    {
+        "name": "Dejan Lovren",
+        "position": "D",
+        "price": 5,
+        "nationality": "Croatia",
+        "image": "playerImages/lovren.jpg"
+    },
+    {
+        "name": "Borna Barisic",
+        "position": "D",
+        "price": 4,
+        "nationality": "Croatia",
+        "image": "playerImages/barisic.jpg"
+    },
+    {
+        "name": "Josko Gvardiol",
+        "position": "D",
+        "price": 5,
+        "nationality": "Croatia",
+        "image": "playerImages/gvardiol.jpg"
+    },
+    {
+        "name": "Borna Sosa",
+        "position": "D",
+        "price": 4,
+        "nationality": "Croatia",
+        "image": "playerImages/sosa.jpg"
+    },
+    {
+        "name": "Josip Stanisic",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Croatia",
+        "image": "playerImages/stanisic.jpg"
+    },
+    {
+        "name": "Mateo Kovacic",
+        "position": "M",
+        "price": 5,
+        "nationality": "Croatia",
+        "image": "playerImages/kovacic.jpg"
+    },
+    {
+        "name": "Marcelo Brozovic",
+        "position": "M",
+        "price": 5,
+        "nationality": "Croatia",
+        "image": "playerImages/brozovic.jpg"
+    },
+    {
+        "name": "Ivan Perisic",
+        "position": "M",
+        "price": 6,
+        "nationality": "Croatia",
+        "image": "playerImages/perisic.jpg"
+    },
+    {
+        "name": "Lovro Majer",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Croatia",
+        "image": "playerImages/majer.jpg"
+    },
+    {
+        "name": "Nikola Vlasic",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Croatia",
+        "image": "playerImages/Vlasic.jpg"
+    },
+    {
+        "name": "Andrej Kramaric",
+        "position": "F",
+        "price": 6,
+        "nationality": "Croatia",
+        "image": "playerImages/kramaric.jpg"
+    },
+    {
+        "name": "Mislav Orsic",
+        "position": "F",
+        "price": 5,
+        "nationality": "Croatia",
+        "image": "playerImages/orsic.jpg"
+    },
+    {
+        "name": "Pape Abou Cisse",
+        "position": "D",
+        "price": 5,
+        "nationality": "Senegal",
+        "image": "playerImages/cisse.jpg"
+    },
+    {
+        "name": "Abdou Diallo",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Senegal",
+        "image": "playerImages/diallo.jpg"
+    },
+    {
+        "name": "Idrissa Gueye",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Senegal",
+        "image": "playerImages/gueye.jpg"
+    },
+    {
+        "name": "Cheikhou Kouyate",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Senegal",
+        "image": "playerImages/kouyate.jpg"
+    },
+    {
+        "name": "Ismalia Sarr",
+        "position": "M",
+        "price": 5,
+        "nationality": "Senegal",
+        "image": "playerImages/sarr.jpg"
+    },
+    {
+        "name": "Doulaye Dia",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Senegal",
+        "image": "playerImages/dia.jpg"
+    },
+    {
+        "name": "Hakim Ziyech",
+        "position": "M",
+        "price": 5.5,
+        "nationality": "Morocco",
+        "image": "playerImages/ziyech.jpg"
+    },
+    {
+        "name": "Noussair Mazraoui",
+        "position": "D",
+        "price": 4.5,
+        "nationality": "Morocco",
+        "image": "playerImages/mazraoui.jpg"
+    },
+    {
+        "name": "Romain Saiss",
+        "position": "D",
+        "price": 4,
+        "nationality": "Morocco",
+        "image": "playerImages/saiss.jpg"
+    },
+    {
+        "name": "Enner Valencia",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Ecuador",
+        "image": "playerImages/valencia.jpg"
+    },
+    {
+        "name": "Pervis Estupinan",
+        "position": "D",
+        "price": 4,
+        "nationality": "Ecuador",
+        "image": "playerImages/estupinan.jpg"
+    },
+    {
+        "name": "Eric Maxim Choupo-Moting",
+        "position": "F",
+        "price": 5,
+        "nationality": "Cameroon",
+        "image": "playerImages/EMCM.jpg"
+    },
+    {
+        "name": "Kaoru Mitoma",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Japan",
+        "image": "playerImages/Mitoma.jpg"
+    },
+    {
+        "name": "Daneil Amartey",
+        "position": "D",
+        "price": 4,
+        "nationality": "Ghana",
+        "image": "playerImages/amartey.jpg"
+    },
+    {
+        "name": "Jordan Ayew",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Ghana",
+        "image": "playerImages/ayew.jpg"
+    },
+    {
+        "name": "Tariq Lamptey",
+        "position": "D",
+        "price": 4,
+        "nationality": "Ghana",
+        "image": "playerImages/lamptey.jpg"
+    },
+    {
+        "name": "Inaki Williams",
+        "position": "F",
+        "price": 5.5,
+        "nationality": "Ghana",
+        "image": "playerImages/inakiwilliams.jpg"
+    },
+    {
+        "name": "Mohammed Salisu",
+        "position": "D",
+        "price": 4,
+        "nationality": "Ghana",
+        "image": "playerImages/salisu.jpg"
+    },
+    {
+        "name": "Mohammed Kudus",
+        "position": "M",
+        "price": 4.5,
+        "nationality": "Ghana",
+        "image": "playerImages/kudus.jpg"
+    },
+    {
+        "name": "Wataru Endo",
+        "position": "D",
+        "price": 4,
+        "nationality": "Japan",
+        "image": "playerImages/endo.jpg"
+    },
+    {
+        "name": "Karl Toko Ekambi",
+        "position": "F",
+        "price": 4.5,
+        "nationality": "Cameroon",
+        "image": "playerImages/ekambi.jpg"
+    }
+]
