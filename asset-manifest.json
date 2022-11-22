@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wc22-ultimate-xi/static/css/main.037a9209.css",
-    "main.js": "/wc22-ultimate-xi/static/js/main.70eeb8eb.js",
+    "main.js": "/wc22-ultimate-xi/static/js/main.5524a47d.js",
     "static/media/field.png": "/wc22-ultimate-xi/static/media/field.e4b94dd594310164301d.png",
     "index.html": "/wc22-ultimate-xi/index.html",
     "main.037a9209.css.map": "/wc22-ultimate-xi/static/css/main.037a9209.css.map",
-    "main.70eeb8eb.js.map": "/wc22-ultimate-xi/static/js/main.70eeb8eb.js.map"
+    "main.5524a47d.js.map": "/wc22-ultimate-xi/static/js/main.5524a47d.js.map"
   },
   "entrypoints": [
     "static/css/main.037a9209.css",
-    "static/js/main.70eeb8eb.js"
+    "static/js/main.5524a47d.js"
   ]
 }
