@@ -186,7 +186,7 @@ function App() {
             <label className='text-xl font-bold mr-2'>Budget:</label>
             <p className='text-xl font-bold'>${budget}</p>
           </div>
-            <button onClick={clearTeamHandler} className={`rounded-md py-2 px-4 font-bold text-lg text-black ${forwards.length + midfielders.length + defenders.length + keepers.length === 0 ? 'cursor-not-allowed bg-slate-300 text-slate-400' : 'bg-white hover:bg-slate-300 hover:text-white'}`}>Clear Team</button>
+            <button onClick={clearTeamHandler} className={`rounded-md py-2 px-4 font-bold text-lg text-black ${forwards.length + midfielders.length + defenders.length + keepers.length === 0 ? 'cursor-not-allowed bg-slate-300 text-slate-400' : 'bg-white hover:bg-slate-300 hover:text-white'}`}>Clear <span className='hidden md:inline'>Team</span></button>
             <CopyToClipboard text={value}
               onCopy={() => setCopied(true)}>
               <button disabled={!teamDone} onClick={copyAlertHandler} className={`${teamDone ? `bg-emerald-500 hover:bg-emerald-300` : 'cursor-not-allowed bg-slate-300 text-slate-400'} text-lg rounded-md py-2 px-4 font-bold`}>Share</button>
